@@ -1,6 +1,6 @@
 # 根据名字简拼猜解名字
 
-**python3.7x**
+**python3.x**
 
 **安装xpinyin：`pip install xpinyin`**
 
